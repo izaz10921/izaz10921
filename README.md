@@ -1,9 +1,9 @@
 <img src="https://i.ibb.co/0DRD6wW/Blue-Teal-Modern-Personal-Linked-In-Banner.png" width="100%" />
 <h1 align="center">Hi 👋, I'm Izaz Siddique</h1>
-<h3 align="center">🚀 Full-Stack Web Developer Passionate about crafting seamless user experiences with expertise in HTML, CSS, JavaScript (React, Next), and diverse database platforms.</h3>
+<h3 align="center">🚀 Full-Stack Web Developer</h3>
+<h3 align="center"> Passionate about crafting seamless user experiences with expertise in HTML, CSS, JavaScript (React, Next), and diverse database platforms.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izaz10921&label=Profile%20views&color=0e75b6&style=flat" alt="izaz10921" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izaz10921&theme=" alt="izaz10921" /></a> </p>
 
 - 🔭 I’m currently working on **full-stack web development**
 - 👯 I’m looking to collaborate with **full-stack web development projects**
